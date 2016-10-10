@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Some of my interest areas are Embedded Systems, High Performance Computing, Sensor Technologies with Artificial Intelligence methods from semiconductor fabric to functional device sign-off in hardware and accompanying software.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [pekmezci.github.io repository](https://github.com/pekmezci.github.io) on GitHub.
+There is no need to say, most of the projects that I have been involved were in private repositories or just developed in-house. There is only a few can be found in public repositories Bitbucket, Google Code:(shut down) and [ my git repository](https://github.com/pekmezci) on GitHub.
