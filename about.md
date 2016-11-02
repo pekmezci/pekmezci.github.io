@@ -12,6 +12,15 @@ It would be best to contact via phone(is available in my Linkedin) or email belo
 
 My old webpage: http://users.ecs.soton.ac.uk/hhp1g11/
 
+### Publications and Workshops
+
+"[Embedded Impedance Spectroscopy for Lab-on-Spoon Realization in Living Assistance Systems and Intelligent Environments](/images/pekmezci_IWIS_2013_PAK%20_final_pdf.pdf)"
+– International Workshop on Impedance Spectroscopy, IWIS 2013 (in Abstract Book: pp. 41-42) September 25, 2013 
+
+2012: 19th International SPIN Workshop on Model Checking of Software, Oxford, UK
+
+2012: The Embedded Masterclass 2012, Cambridge, UK
+
 ### Previous Projects
 
 Accelerating Heston Model: An Architectural Study on Pricer Device (Xilinx Virtex-7 FPGA)
