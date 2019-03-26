@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I am a hardware/software engineer and the founder of LineByte. My main area of interest is embedded systems, and my work in that area has won awards from London,ERDF. Thanks to my colleagues and supervisors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). Previously at the University of Southampton, then the University of Kaiserslautern, and my journey continues in Germany, where I am interested in working on fine tuning computational engineering in hardware and software. I believe that ongoing research is crucial for development. 
+I am a Research Fellow in Cranfield University. hardware/software engineer and the founder of LineByte. My main area of interest is embedded systems, and my work in that area has won awards from London,ERDF. Thanks to my colleagues and supervisors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). Previously at the University of Southampton, then the University of Kaiserslautern, followed by my journey to Germany,then come back to UK where I am interested in working on fine tuning computational engineering in hardware and software. I believe that ongoing research is crucial for development. 
 
 ### More Information
 
-It would be best to contact via phone(is available in my Linkedin) or email below.
+It would be best to contact via email below.
 
-My old webpage: http://users.ecs.soton.ac.uk/hhp1g11/
+Quants my alphaville server is in under maintanence http://techton.heliohost.org
+My old webpage (is down): http://users.ecs.soton.ac.uk/hhp1g11/
 
 ### Publications and Workshops
+
+S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic Helicopter Rotor Blade Information, European Rotorcraft Forum, ERF 2018, Delft, The Netherlands 2018
 
 "[Embedded Impedance Spectroscopy for Lab-on-Spoon Realization in Living Assistance Systems and Intelligent Environments](/images/pekmezci_IWIS_2013_PAK%20_final_pdf.pdf)"
 – International Workshop on Impedance Spectroscopy, IWIS 2013 (in Abstract Book: pp. 41-42) September 25, 2013 
@@ -21,9 +24,15 @@ My old webpage: http://users.ecs.soton.ac.uk/hhp1g11/
 
 2012: The Embedded Masterclass 2012, Cambridge, UK
 
+### Current Projects
+
+Bladesense
+
+Alphaville HFT Quant Analysis platform
+
 ### Previous Projects
 
-Accelerating Heston Model: An Architectural Study on Pricer Device (Xilinx Virtex-7 FPGA)
+Accelerating Heston Model: Options Pricer Device (Xilinx Virtex-7 FPGA)
 
 Lab-on-spoon project
 
