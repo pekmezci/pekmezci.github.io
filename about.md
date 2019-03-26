@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Research Fellow in Cranfield University. hardware/software engineer and the founder of LineByte. My main area of interest is embedded systems, and my work in that area has won awards from London,ERDF. Thanks to my colleagues and supervisors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). Previously at the University of Southampton, then the University of Kaiserslautern, followed by my journey to Germany,then come back to UK where I am interested in working on fine tuning computational engineering in hardware and software. I believe that ongoing research is crucial for development. 
+I am a Research Fellow in Cranfield University. hardware/software engineer and the founder of LineByte. My main area of interest is embedded systems, and my work in that area has won awards from London,ERDF. Thanks to my colleagues and supervisors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). Previously at the University of Southampton, then the University of Kaiserslautern, then come back to Cranfield University, UK where I develop new systems while working on fine tuning computational engineering in FPGA hardware and software. I believe that ongoing research is crucial for development. 
 
 ### More Information
 
