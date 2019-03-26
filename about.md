@@ -10,7 +10,8 @@ I am a Research Fellow in Cranfield University. hardware/software engineer and t
 
 It would be best to contact via email below.
 
-Quants my alphaville server is in under maintanence http://techton.heliohost.org
+Quants alphaville server is in under maintanence http://techton.heliohost.org
+
 My old webpage (is down): http://users.ecs.soton.ac.uk/hhp1g11/
 
 ### Publications and Workshops
