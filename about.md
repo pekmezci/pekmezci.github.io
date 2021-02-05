@@ -16,6 +16,9 @@ My old webpage (is down): http://users.ecs.soton.ac.uk/hhp1g11/
 
 ### Publications and Workshops
 
+S. James, H. Pekmezci et al. Dynamic Measurement of Strain and Shape on a Rotating Helicopter Rotor Blade, The 27th
+International Conference on Optical Fiber Sensors, OFS 2020, Virginia, USA
+
 S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic Helicopter Rotor Blade Information, European Rotorcraft Forum, ERF 2018, Delft, The Netherlands 2018
 
 "[Embedded Impedance Spectroscopy for Lab-on-Spoon Realization in Living Assistance Systems and Intelligent Environments](/images/pekmezci_IWIS_2013_PAK%20_final_pdf.pdf)"
@@ -27,11 +30,13 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 
 ### Current Projects
 
-Bladesense
-
-Alphaville HFT Quant Analysis platform
+A.L.E.R.T.
+M.B.S.
 
 ### Previous Projects
+Alphaville HFT Quant Analysis platform
+
+Bladesense
 
 Accelerating Heston Model: Options Pricer Device (Xilinx Virtex-7 FPGA)
 
