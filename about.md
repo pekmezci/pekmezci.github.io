@@ -10,7 +10,7 @@ I am a researcher in Particle Identification and Diagnostics Group at the Univer
 
 It would be best to contact via email below.
 
-Quants alphaville server is in under maintanence http://techton.heliohost.org
+Quants alphaville server (is down): http://techton.heliohost.org
 
 My old webpage (is down): http://users.ecs.soton.ac.uk/hhp1g11/
 
@@ -30,6 +30,8 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 
 ### Current Projects
 
+SID-4
+UCASS version 2
 A.L.E.R.T.
 M.B.S.
 
