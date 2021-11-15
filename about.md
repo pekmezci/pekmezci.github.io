@@ -31,8 +31,11 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 ### Current Projects
 
 SID-4
+
 UCASS version 2
+
 A.L.E.R.T.
+
 M.B.S.
 
 ### Previous Projects
