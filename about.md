@@ -41,7 +41,7 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 ### Current Projects#
 
 
-### Previous Projects#
+<!--- ### Previous Projects#
 
 #SID-4#
 
@@ -83,8 +83,8 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 
 #E-commerce shopping cart integration to commercial websites on CentOS#
 
-#AJAX based dynamic content development#
+AJAX based dynamic content development#-->
 
-### Feel free to contact me#
+### Feel free to contact me
 
 via [hakanpekmezci[at]gmail[dot]com](mailto:hakanpekmezci[at]gmail[dot]com)
