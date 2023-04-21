@@ -77,8 +77,8 @@ Multistage Opamp in Cadence Virtuoso Layout with 0.35um AMS CMOS Process
 
 E-commerce shopping cart integration to commercial websites on CentOS
 
-AJAX based dynamic content development
+//AJAX based dynamic content development
 
 ### Feel free to contact me
 
-via [takasonlines[at]yahoo[dot]com](mailto:takasonlines[at]yahoo[dot]com)
+via [hakanpekmezci[at]gmail[dot]com](mailto:hakanpekmezci[at]gmail[dot]com)
