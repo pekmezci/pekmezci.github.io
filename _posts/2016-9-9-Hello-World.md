@@ -2,10 +2,10 @@
 layout: post
 title: Welcome to know about me!
 ---
-Some of my interest areas are Cybersecurity, Quantitative Analysis of the Data, High Performance Computing, Artificial Intelligence based Feature Extraction and Pattern Analysis.
+I'm interested in a variety of subjects, including Cybersecurity, using data analysis to gain insights, High Performance Computing, and using Artificial Intelligence to analyze patterns and extract features.
 
-ASIC/FPGA based works focus on High Frequency Data Applications, Network Research and Photonics.
+I'm also interested in using ASIC/FPGA technology to work with High Frequency Data Applications, Network Research, and Photonics.
 
-Risk aversion and market depth in dynamic markets through implied volatility surface my portfolio interests.
+I'm also interested in exploring the ways that implied volatility surface can help with risk aversion and market depth in dynamic markets.
 
-There is no need to say, most of the projects that I have been involved are in private repositories and/or in-house servers due to NDAs. There is only a few can be found in public repositories Bitbucket, Google Code:(shut down) and [ my git repository](https://github.com/pekmezci) on GitHub.
+Unfortunately, most of the projects I've worked on are private due to NDAs, but a few can be found on public repositories like Bitbucket, Google Code (which is now shut down), and [ my git repository](https://github.com/pekmezci) on GitHub.
