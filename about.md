@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Thanks to many good people. My embedded systems won awards from London, ERDF. I am grateful to my colleagues and supervisors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). My previous projects were at the Cranfield University, the University of Southampton, University of Kaiserslautern. I develop new cyber security and IoT systems while working on fine-tuning computational engineering in FPGA hardware and software. I believe that ongoing research is crucial for development.
+Thanks to many good people. My embedded systems won awards from London, ERDF. I am grateful to my colleagues and mentors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). My previous projects were at the Cranfield University, the University of Southampton, University of Kaiserslautern. I develop new cyber security and IoT systems while working on fine-tuning computational engineering in FPGA hardware and software. I believe that ongoing research is crucial for development.
 
 ### More Information
 
