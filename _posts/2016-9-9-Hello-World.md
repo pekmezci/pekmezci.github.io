@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome to know about me!
 ---
-Some of my interest areas are Quantitative Analysis of the Data, High Performance Computing, Artificial Intelligence based Feature Extraction and Pattern Analysis.
+Some of my interest areas are Cybersecurity, Quantitative Analysis of the Data, High Performance Computing, Artificial Intelligence based Feature Extraction and Pattern Analysis.
 
 ASIC/FPGA based works focus on High Frequency Data Applications, Network Research and Photonics.
 
