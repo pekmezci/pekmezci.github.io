@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Thanks to many good people. My embedded systems won awards from London, ERDF. I am grateful to my colleagues and mentors, I received prestigious grants/scholarships such as Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship, DAAD (German Academic Exchange Service). My previous projects were at the Cranfield University, the University of Southampton, University of Kaiserslautern. I develop new cyber security and IoT systems while working on fine-tuning computational engineering in FPGA hardware and software. I believe that ongoing research is crucial for development.
+I've been fortunate to work with some amazing people throughout my career. Thanks to their support and guidance, my embedded systems have been recognised with awards from London and ERDF. Additionally, I've been honored to receive prestigious grants and scholarships, including the Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship and the DAAD (German Academic Exchange Service) scholarship.
+
+I've worked on a variety of exciting projects in the past, including collaborations with Cranfield University, the University of Southampton, the University of Hertfordshire and the University of Kaiserslautern. These experiences have allowed me to develop expertise in cyber security and AI focused IoT systems, while also honing my skills in FPGA hardware and software development.
+
+I believe that ongoing research is critical to advancing our understanding of technology, and I'm passionate about contributing to this effort through my work. Ultimately, my goal is to create innovative solutions that can help make the world a better, safer place.
 
 ### More Information
 
@@ -30,6 +34,9 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 
 ### Current Projects
 
+
+### Previous Projects
+
 SID-4
 
 UCASS version 2
@@ -38,7 +45,6 @@ A.L.E.R.T.
 
 M.B.S.
 
-### Previous Projects
 Alphaville HFT Quant Analysis platform
 
 Bladesense
