@@ -18,7 +18,13 @@ Quants alphaville server (is down): http://techton.heliohost.org
 
 My old webpage (unfortunately it's down now): http://users.ecs.soton.ac.uk/hhp1g11/
 
-### Publications and Workshops
+### Publications,Workshops and Conferences
+
+DATES 2023
+
+eFutures 2022
+
+GovSecIT 2022
 
 S. James, H. Pekmezci et al. Dynamic Measurement of Strain and Shape on a Rotating Helicopter Rotor Blade, The 27th
 International Conference on Optical Fiber Sensors, OFS 2020, Virginia, USA
@@ -32,53 +38,53 @@ S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic
 
 2012: The Embedded Masterclass 2012, Cambridge, UK
 
-### Current Projects
+### Current Projects#
 
 
-### Previous Projects
+### Previous Projects#
 
-SID-4
+#SID-4#
 
-UCASS version 2
+#UCASS version 2#
 
-A.L.E.R.T.
+#A.L.E.R.T.#
 
-M.B.S.
+#M.B.S.#
 
-Alphaville HFT Quant Analysis platform
+#Alphaville HFT Quant Analysis platform#
 
-Bladesense
+#Bladesense#
 
-Accelerating Heston Model: Options Pricer Device (Xilinx Virtex-7 FPGA)
+#Accelerating Heston Model: Options Pricer Device (Xilinx Virtex-7 FPGA)#
 
-Lab-on-spoon project
+#Lab-on-spoon project#
 
-Embedded Impedance Spectroscopy, AI application on DSPs
+#Embedded Impedance Spectroscopy, AI application on DSPs#
 
-Wyrd-in: self adaptive task and calendar manager
+#Wyrd-in: self adaptive task and calendar manager#
 
-Heston model calibration unit simulator multiplatform (private repository)
+#Heston model calibration unit simulator multiplatform (private repository)#
 
-Triaxial Anisotropic Magnetoresistive (AMR) sensor for 3D localisation remapping
+#Triaxial Anisotropic Magnetoresistive (AMR) sensor for 3D localisation remapping#
 
-Sensor Signal Processing Techniques for Liquid Characterisation
+#Sensor Signal Processing Techniques for Liquid Characterisation#
 
-Verification of Digital Systems (OneSpin)
+#Verification of Digital Systems (OneSpin)#
 
-SHA-256 Hardware Architecture Implementation on Xilinx FPGA in Quartz (hosted in private Bitbucket repository)
+#SHA-256 Hardware Architecture Implementation on Xilinx FPGA in Quartz (hosted in private Bitbucket repository)#
 
-IaF Neuron Emulator Implementation on Altera FPGA in Verilog (Part of SpiNNaker)
+#IaF Neuron Emulator Implementation on Altera FPGA in Verilog (Part of SpiNNaker)#
 
-SystemC co-design and Low Power Techniques in ASIC Design Synthesis
+#SystemC co-design and Low Power Techniques in ASIC Design Synthesis#
 
-80-bit Sequence Decoder in SystemVerilog Using 0.35um AMS CMOS Process
+#80-bit Sequence Decoder in SystemVerilog Using 0.35um AMS CMOS Process#
 
-Multistage Opamp in Cadence Virtuoso Layout with 0.35um AMS CMOS Process
+#Multistage Opamp in Cadence Virtuoso Layout with 0.35um AMS CMOS Process#
 
-E-commerce shopping cart integration to commercial websites on CentOS
+#E-commerce shopping cart integration to commercial websites on CentOS#
 
-//AJAX based dynamic content development
+#AJAX based dynamic content development#
 
-### Feel free to contact me
+### Feel free to contact me#
 
 via [hakanpekmezci[at]gmail[dot]com](mailto:hakanpekmezci[at]gmail[dot]com)
