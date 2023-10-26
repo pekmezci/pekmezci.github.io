@@ -17,18 +17,18 @@ Feel free to contact me via email using the address below
 
 ### Publications,Workshops and Conferences
 
-DATES 2023
+H. Pekmezci, "Open-source Design Automation" at the International Conference on Design, Automation and Test in Europe Conference (DATE), April 17, 2023
 
-eFutures 2022
+H. Pekmezci, "Arm SoC" workshop at the eFutures Conference, "Electronics for Sustainable Societies", the Museum of Liverpool, eFutures 2022
 
-H. Pekmezci invited VIP guest to the Government IT Security Conference (GOVSEC) Conference at the Millennium Gloucester Conference Centre, LondonGovSecIT 2022
+H. Pekmezci invited VIP guest to the Government IT Security Conference (GOVSEC) Conference at the Millennium Gloucester Conference Centre, London,GovSecIT 2022
 
 S. James, H. Pekmezci et al. Dynamic Measurement of Strain and Shape on a Rotating Helicopter Rotor Blade, The 27th
 International Conference on Optical Fiber Sensors, OFS 2020, Virginia, USA
 
 S. Weber, H. Pekmezci etal., Bladesense–A novel approach for measuring Dynamic Helicopter Rotor Blade Information, European Rotorcraft Forum, ERF 2018, Delft, The Netherlands 2018
 
-"[Embedded Impedance Spectroscopy for Lab-on-Spoon Realization in Living Assistance Systems and Intelligent Environments](/images/pekmezci_IWIS_2013_PAK%20_final_pdf.pdf)"
+"[Embedded Impedance Spectroscopy for Lab-on-Spoon Realization in Living Assistance Systems and Intelligent Environments]"
 – International Workshop on Impedance Spectroscopy, IWIS 2013 (in Abstract Book: pp. 41-42) September 25, 2013 
 
 2012: 19th International SPIN Workshop on Model Checking of Software, Oxford, UK
