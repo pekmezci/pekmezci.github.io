@@ -4,19 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I've been fortunate to work with some amazing people throughout my career. Thanks to their support and guidance, my embedded systems have been recognised with awards from London and ERDF. Additionally, I've been honored to receive prestigious grants and scholarships, including the Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship and the DAAD (German Academic Exchange Service) scholarship.
+I've had the privilege of collaborating with exceptional individuals throughout my career. With their unwavering support and guidance, my work in embedded systems has earned recognition, including awards from London and ERDF. I've also been honoured to receive prestigious grants and scholarships, such as the Erasmus Mundus Embedded Computing Systems (EMECS) EU scholarship and the DAAD (German Academic Exchange Service) scholarship.
 
-I've worked on a variety of exciting projects in the past, including collaborations with Cranfield University, the University of Southampton, the University of Hertfordshire and the University of Kaiserslautern. These experiences have allowed me to develop expertise in cyber security and AI focused IoT systems, while also honing my skills in FPGA hardware and software development.
+My professional journey has encompassed a diverse range of exciting projects, involving partnerships with esteemed institutions like Cranfield University, the University of Southampton, the University of Hertfordshire, and the University of Kaiserslautern. These experiences have enabled me to cultivate expertise in cybersecurity and AI-focused IoT systems, alongside refining my skills in FPGA hardware and software development.
 
-I believe that ongoing research is critical to advancing our understanding of technology, and I'm passionate about contributing to this effort through my work. Ultimately, my goal is to create innovative solutions that can help make the world a better, safer place.
+I firmly believe that ongoing research plays a pivotal role in advancing our understanding of technology. I am deeply passionate about contributing to this ongoing effort through my work. Ultimately, my objective is to devise innovative solutions that can contribute to making the world a better and safer place.
 
-### More Information
+### For More Information
 
-It would be best to contact via email below.
+Feel free to contact me via email using the address below
 
-Quants alphaville server (is down): http://techton.heliohost.org
-
-My old webpage (unfortunately it's down now): http://users.ecs.soton.ac.uk/hhp1g11/
 
 ### Publications,Workshops and Conferences
 
@@ -24,7 +21,7 @@ DATES 2023
 
 eFutures 2022
 
-GovSecIT 2022
+H. Pekmezci invited VIP guest to the Government IT Security Conference (GOVSEC) Conference at the Millennium Gloucester Conference Centre, LondonGovSecIT 2022
 
 S. James, H. Pekmezci et al. Dynamic Measurement of Strain and Shape on a Rotating Helicopter Rotor Blade, The 27th
 International Conference on Optical Fiber Sensors, OFS 2020, Virginia, USA
